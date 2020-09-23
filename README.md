@@ -29,6 +29,12 @@ Then Doe will start in localhost at:
 localhost:3333
 ```
 
+
+>Thank you so much for having interest in my project.
+>If you have any questions please contact me!
+
+>My discord: lint#5716
+
 License
 ----
 
